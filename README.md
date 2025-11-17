@@ -5,15 +5,20 @@
 * 言語はpythonを利用しています。
 * ★はカイゼンしてほしいと思った点です。
 
+## API docs
+* https://developer.webull.co.jp/api-doc/
 
 ## github repo
-https://github.com/microfund/webull-public
+* https://github.com/microfund/webull-public
 
 ## 公式サイト
 * https://www.webull.co.jp/
 
 ## pc版アプリインストール
 * https://www.webull.co.jp/platform/desktop-native
+
+## スマホアプリのインストール
+* https://www.webull.co.jp/platform/mobile-app
 
 ## 入金方法
 * https://www.webull.co.jp/service/funding-and-withdrawal
@@ -24,12 +29,10 @@ https://github.com/microfund/webull-public
 * https://www.webull.co.jp/service/funding-and-withdrawal
 * スマホアプリでしかできない（★ＷＥＢ版ではできない）
 
-## API docs
-* https://developer.webull.co.jp/api-doc/
-
 ## API Tips (python)
 * 入出金履歴を表示する
-    * https://github.com/microfund/webull-public/blob/main/show_depo_withdrawal.py
+    * https://github.com/microfund/webull-public/blob/main/show_depo_withdrawal.md
+    * ★表示できず
 
 * 資産を表示する
     * 
@@ -40,6 +43,10 @@ https://github.com/microfund/webull-public
 * 銘柄と価格を表示する
     * 
 
+* ニュースを取得する
+    * 
+
+### 注文
 * 成行買いをする
     * 
 
