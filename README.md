@@ -24,6 +24,7 @@
 * https://www.webull.co.jp/service/funding-and-withdrawal
 * ★クイック入金にGMOあおぞらネット銀行を入れてほしい
 * ★総合振込にGMOあおぞらネット銀行を入れてほしい
+* 総合振込で振込入金の場合、３０分から１時間ほど着金にかかる
 
 ## 出金方法
 * https://www.webull.co.jp/service/funding-and-withdrawal
@@ -46,6 +47,12 @@
 * ニュースを取得する
     * 
 
+* ティッカーシンボルをすべて表示する（米国株）
+    * 
+
+* 証券コードをすべて表示する（日本株）
+    * 
+    
 ### 注文
 * 成行買いをする
     * 
