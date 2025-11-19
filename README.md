@@ -4,6 +4,8 @@
 * Webull証券のAPIについての動作検証を行うリポジトリです。
 * 言語はpythonを利用しています。
 * ★はカイゼンしてほしいと思った点です。
+* mdファイルには.pyファイルを実行して、APIからの出力した結果を出力しています
+
 
 ## API docs
 * https://developer.webull.co.jp/api-doc/
