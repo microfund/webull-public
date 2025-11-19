@@ -13,6 +13,9 @@
 ## github repo
 * https://github.com/microfund/webull-public
 
+## issues
+* https://github.com/microfund/webull-public/issues
+
 ## 公式サイト
 * https://www.webull.co.jp/
 
